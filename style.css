@@ -1,0 +1,30 @@
+body {
+	background-color: white;
+}
+h1 {
+	color: black;
+}
+h2 {
+	color: grey;
+}
+
+#wrapper {
+	width: 1024px;
+	background-color: white;
+	margin: auto;
+}
+#header {
+	background-color: white;
+	text-align: left;
+	padding: 5px;
+}
+#content{
+	background-color: white;
+	padding: 20px;
+	margin: auto; 
+}
+#footer {
+	background-color: white;
+	padding: 5px;
+	margin: auto;
+}
