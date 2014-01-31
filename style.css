@@ -7,6 +7,22 @@ h1 {
 h2 {
 	color: grey;
 }
+a:link {
+	color:#92b031;
+	text-decoration: none;
+}
+a:visited {
+	color:#92b031;
+	text-decoration: none;
+}
+a:hover {
+	color:#92b031;
+	text-decoration: underline;
+}
+a:active {
+	color:#92b031;
+	text-decoration: none;
+}
 
 #wrapper {
 	width: 1024px;
@@ -29,5 +45,8 @@ h2 {
 }
 
 #left_column {
-	width: 160px
+	width: 120px
+	font-family: Arial;
+	font-size: 12px;
+	color: grey
 }
