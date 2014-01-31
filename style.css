@@ -29,24 +29,36 @@ a:active {
 	background-color: white;
 	margin: auto;
 }
+
 #header {
 	background-color: white;
 	text-align: left;
 	padding: 5px;
 }
+
 #content{
 	background-color: white;
 	padding: 20px;
 	margin: auto; 
 }
+
+#middle_columns {
+	font-family: Arial, helvetica, serif;
+	position: relative;
+	left: 300px;
+	width: 400px;
+}
+
+
 #footer {
 	background-color: white;
-	margin: auto;
+	position: absolute;
+	left: 512px;
 }
 
 #left_column {
-	width: 120px
-	font-family: Arial;
+	width: 120px;
+	font-family: Arial, helvetica, serif;
 	font-size: 12px;
-	color: grey
+	color: gray;
 }
