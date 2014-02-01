@@ -5,8 +5,12 @@ h1 {
 	color: black;
 }
 h2 {
-	color: grey;
+	color: gray;
 }
+h3 {
+	color: gray;
+}
+
 a:link {
 	color:#92b031;
 	text-decoration: none;
